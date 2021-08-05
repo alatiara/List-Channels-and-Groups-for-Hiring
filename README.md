@@ -50,6 +50,9 @@ Several lists of channels and groups of Indonesian programmers that can be used 
  <a href="https://t.me/FrontEndID" rel="nofollow">Frontend Developer Indonesia-Telegram</a>
  </li>
  <li>
+ <li>
+ <a href="https://t.me/pythonID" rel="nofollow">Python Indonesia-Telegram</a>
+ </li>
  <a href="https://t.me/itkita" rel="nofollow">IT Indonesia-Telegram</a>
  </li>
  <li>
@@ -57,4 +60,7 @@ Several lists of channels and groups of Indonesian programmers that can be used 
  </li>
  <li>
  <a href="https://t.me/surabayadotpy" rel="nofollow">Surabaya.py-Telegram</a>
+ </li>
+ <li>
+ <a href="https://t.me/DjangoID" rel="nofollow">Django Indonesia-Telegram</a>
  </li>
