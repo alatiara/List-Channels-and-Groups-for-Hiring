@@ -67,3 +67,6 @@ Several lists of channels and groups of Indonesian programmers that can be used 
  <li>
  <a href="https://t.me/programmerlokal" rel="nofollow">Programmer Lokal-Telegram</a>
  </li>
+ <li>
+ <a href="https://t.me/dotnetusergroup" rel="nofollow">.Net Indonesia-Telegram</a>
+ </li>
